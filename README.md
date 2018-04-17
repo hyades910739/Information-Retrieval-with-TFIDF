@@ -1,6 +1,6 @@
 # Information Retrieval with TFIDF
 Lai,April,2018
-***
+
 
 This python code implement vector space model, with TFIDF weighted, you can search over a corpus with 2000 file.
 method now include:
